@@ -1,0 +1,6 @@
+Library naming:
+ lib${TYPE}_${name}.so/a.${version}
+ libST_vk_interface.so.1.2.3
+ type:
+  D = dynamic
+  ST = static
